@@ -1,0 +1,61 @@
+.speech {
+    font-size: 15px;
+    color: #000;
+}
+.stage-direction {
+    font-size: 13px;
+    color: #000;
+    background-color: #F8E2CF;
+}
+.stage-direction:hover {
+    color: #fff;
+    background-color: #2D46B9;
+}
+.name {
+    font-size: 16px;
+    color: #000;
+}
+.name:hover {
+    border: 1px solid;
+    border-color: inherit;
+    box-shadow: 0px 5px 6px;
+}
+.pres {
+    color: #F037A5 ;
+}
+.first-consp {
+    color: #125D98;
+}
+.second-consp {
+    color: #99154E;
+}
+.fourth-consp {
+    color: #346751;
+}
+.fifth-consp {
+    color: #e100ff;
+}
+.vera {
+    color: #eeff00;
+}
+.prince-paul {
+    color: #ff8800;
+}
+.consp {
+    color: #00d7f3;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
