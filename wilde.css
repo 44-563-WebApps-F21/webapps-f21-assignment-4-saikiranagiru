@@ -23,8 +23,11 @@
 .pres {
     color: #F037A5 ;
 }
+.description {
+    color: green;
+}
 .first-consp {
-    color: #125D98;
+    color: #015763;
 }
 .second-consp {
     color: #99154E;
@@ -36,13 +39,14 @@
     color: #e100ff;
 }
 .vera {
-    color: #eeff00;
+    color: #1900ff;
 }
 .prince-paul {
     color: #ff8800;
 }
 .consp {
-    color: #00d7f3;
+    color: #9c9e02;
+    
 }
 table {
     font-family: arial, sans-serif;
@@ -58,4 +62,7 @@ table {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+  body{
+      background-color: #c9c5c5;
   }
